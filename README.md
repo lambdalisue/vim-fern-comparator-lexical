@@ -4,7 +4,7 @@
 
 ![Screenshot](https://user-images.githubusercontent.com/546312/73591839-13725800-4537-11ea-93d8-bb74036a7dfe.png)
 
-[fern.vim](https://github.com/lambdalisue/fern) plugin which add `lexical` comparator
+[fern.vim](https://github.com/lambdalisue/fern.vim) plugin which add `lexical` comparator
 
 ## Usage
 
