@@ -1,0 +1,26 @@
+*fern-comparator-lexical.txt*	fern plugin to sort nodes in lexical order
+
+=============================================================================
+CONTENTS				*fern-comparator-lexical-contents*
+
+INTRODUCTION			|fern-comparator-lexical-introduction|
+USAGE				|fern-comparator-lexical-usage|
+
+
+=============================================================================
+INTRODUCTION				*fern-comparator-lexical-introduction*
+
+*fern-comparator-lexical.vim* is a |fern.vim| plugin which add lexical
+comparator.
+
+
+=============================================================================
+USAGE					*fern-comparator-lexical-usage*
+
+Set "lexical" to |g:fern#comparator| like:
+>
+	let g:fern#comparator = "lexical"
+<
+
+=============================================================================
+vim:tw=78:fo=tcq2mM:ts=8:ft=help:norl
