@@ -3,6 +3,6 @@ if exists('g:fern_comparator_lexical_loaded')
 endif
 let g:fern_comparator_lexical_loaded = 1
 
-call extend(g:fern#internal#core#comparators, {
+call extend(g:fern#comparators, {
       \ 'lexical': function('fern#comparator#lexical#new'),
       \})
