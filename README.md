@@ -13,3 +13,7 @@ Set `"lexical"` to `g:fern#comparator` like
 ```vim
 let g:fern#comparator = "lexical"
 ```
+
+## Options
+
+- `let g:fern#comparator#lexical#case_sensitive`: Whether the listing should be case-sensitive or not (default: `1`)
