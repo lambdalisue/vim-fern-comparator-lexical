@@ -22,5 +22,19 @@ Set "lexical" to |g:fern#comparator| like:
 	let g:fern#comparator = "lexical"
 <
 
+
+=============================================================================
+OPTIONS					*fern-comparator-lexical-options*
+
+------------------------------------------------------------------------------
+g:fern#comparator#lexical#case_sensitive          *fern-comparator-lexical-options-case_sensitive*
+
+Set this to 0 to make sorting case-insensitive.
+>
+    let g:fern#comparator#lexical#case_sensitive = 0
+<
+Default: 1 (case-sensitive)
+
+
 =============================================================================
 vim:tw=78:fo=tcq2mM:ts=8:ft=help:norl
